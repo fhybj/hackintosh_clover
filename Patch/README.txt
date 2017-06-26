@@ -1,0 +1,1 @@
+拷贝到/System/Library/Displays/Contents/Resources/Overrides/目录
